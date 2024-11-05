@@ -1,0 +1,17 @@
+/Users/juliastolova/Documents/Programming/API_Pva/bin/Debug/net8.0/API_Pva
+/Users/juliastolova/Documents/Programming/API_Pva/bin/Debug/net8.0/API_Pva.deps.json
+/Users/juliastolova/Documents/Programming/API_Pva/bin/Debug/net8.0/API_Pva.runtimeconfig.json
+/Users/juliastolova/Documents/Programming/API_Pva/bin/Debug/net8.0/API_Pva.dll
+/Users/juliastolova/Documents/Programming/API_Pva/bin/Debug/net8.0/API_Pva.pdb
+/Users/juliastolova/Documents/Programming/API_Pva/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/juliastolova/Documents/Programming/API_Pva/obj/Debug/net8.0/API_Pva.csproj.AssemblyReference.cache
+/Users/juliastolova/Documents/Programming/API_Pva/obj/Debug/net8.0/API_Pva.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliastolova/Documents/Programming/API_Pva/obj/Debug/net8.0/API_Pva.AssemblyInfoInputs.cache
+/Users/juliastolova/Documents/Programming/API_Pva/obj/Debug/net8.0/API_Pva.AssemblyInfo.cs
+/Users/juliastolova/Documents/Programming/API_Pva/obj/Debug/net8.0/API_Pva.csproj.CoreCompileInputs.cache
+/Users/juliastolova/Documents/Programming/API_Pva/obj/Debug/net8.0/API_Pva.csproj.CopyComplete
+/Users/juliastolova/Documents/Programming/API_Pva/obj/Debug/net8.0/API_Pva.dll
+/Users/juliastolova/Documents/Programming/API_Pva/obj/Debug/net8.0/refint/API_Pva.dll
+/Users/juliastolova/Documents/Programming/API_Pva/obj/Debug/net8.0/API_Pva.pdb
+/Users/juliastolova/Documents/Programming/API_Pva/obj/Debug/net8.0/API_Pva.genruntimeconfig.cache
+/Users/juliastolova/Documents/Programming/API_Pva/obj/Debug/net8.0/ref/API_Pva.dll
